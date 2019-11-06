@@ -13,10 +13,10 @@
     "url": "https://github.com/hpe-design/server/issues"
   },
   "scripts": {
-    "dev": "next",
     "build": "next build",
-    "export": "next export",
     "deploy": "npm run validate && npm run build && npm run export",
+    "dev": "next",
+    "export": "next export",
     "start": "next start",
     "test": "jest",
     "validate": "npm run test"
