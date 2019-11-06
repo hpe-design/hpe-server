@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+# out/ ## next.js build directory, publishing to git so Netlify has access
+
+# debug
+*.log
+
+# misc
+.DS_Store
+.env*
+
