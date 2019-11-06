@@ -1,4 +1,5 @@
 # hpe-server
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b150011-1acd-47e3-8a8d-b6d4ea3e51bd/deploy-status)](https://app.netlify.com/sites/affectionate-leakey-6b1858/deploys)
 
 React / Next.js
 
