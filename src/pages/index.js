@@ -1,7 +1,7 @@
 const Index = () => {
   return (
     <div>
-      <p>Hello HPE Experience Studio</p>
+      <p>Hello HPExs</p>
     </div>
   );
 };
