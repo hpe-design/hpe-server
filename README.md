@@ -27,7 +27,7 @@ yarn deploy
 Will first run tests, then build & export to the build directory `/out`.
 
 ## Netlify Config
-Access site settings at https://app.netlify.com/sites/hpe-server/settings/deploys
+Access site settings at https://app.netlify.com/sites/affectionate-leakey-6b1858/settings/general
 
 ### Build settings
 Set the following under "Build Settings":
