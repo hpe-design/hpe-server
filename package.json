@@ -13,7 +13,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint src",
+    "lint-fix": "eslint src --fix"
   },
   "dependencies": {
     "grommet": "^2.7.11",
@@ -41,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "pre-commit": [
+    "lint-fix"
+  ]
 }

@@ -3,8 +3,6 @@ coverage/
 dist/
 build/
 prod/
-out/
-.next/
 .cache/
 public/
 yarn.lock
