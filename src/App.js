@@ -7,7 +7,7 @@ const App = () => {
     <Grommet theme={hpe}>
       <Box>
         <Heading level="1">Hello HPExs</Heading>
-        <Paragraph>Welcome to HPE Server</Paragraph>
+        <Paragraph>Welcome to HPE Server -- woot woot</Paragraph>
       </Box>
     </Grommet>
   );
