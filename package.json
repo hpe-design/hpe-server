@@ -18,7 +18,7 @@
     "lint-fix": "eslint src --fix"
   },
   "dependencies": {
-    "grommet": "^2.7.11",
+    "grommet": "^2.8.0",
     "grommet-icons": "^4.4.0",
     "grommet-theme-hpe": "^0.4.2",
     "react": "^16.11.0",
@@ -45,6 +45,7 @@
     ]
   },
   "pre-commit": [
-    "lint-fix"
+    "lint-fix",
+    "test"
   ]
 }

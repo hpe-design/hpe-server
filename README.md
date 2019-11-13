@@ -26,7 +26,7 @@ Access site settings at https://app.netlify.com/sites/affectionate-leakey-6b1858
 
 ### Build settings
 Set the following under "Build Settings":
-- Build command: `npm run build`
+- Build command: `yarn build`
 - Publish directory: `build`
 
 ### Deploy contexts

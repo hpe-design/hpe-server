@@ -6,6 +6,9 @@
 # testing
 /coverage
 
+#lock files
+package-lock.json
+
 # production
 /build
 
