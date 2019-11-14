@@ -978,9 +978,9 @@
     "@hapi/hoek" "^8.3.0"
 
 "@hpe/project-scripts@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@hpe/project-scripts/-/project-scripts-1.0.5.tgz#0ac7804ac702f02e879d19ccb6e6f9935feabdf0"
-  integrity sha512-822gBYQdhK6UJ5JpSn4GMRmjc5xPjE1FnenRpmqnSJ3ObornidJN3PopelD6HvQbfr5yMl7625A/mzMz5S1GyA==
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@hpe/project-scripts/-/project-scripts-1.0.6.tgz#2735a2c8a2fbec53c6f637534f7def855046da47"
+  integrity sha512-gI9wcIWAg4yICOabYuJT9AXfA4fIfecr9TXYo5PGo8VEnmnRrC1F3xmhTnqb1ZOTPzyUzV8vHRw//7UKDky99Q==
   dependencies:
     babel-eslint "^10.0.2"
     eslint "^5.3.0"
@@ -1783,6 +1783,10 @@ aria-query@3.0.0, aria-query@^3.0.0:
     ast-types-flow "0.0.7"
     commander "^2.11.0"
 
+"aries-core@https://github.com/hpe-design/aries.git#stable":
+  version "0.0.0"
+  resolved "https://github.com/hpe-design/aries.git#6907f7bf1417dc0c9c61ecccfa32301cf393d993"
+
 arity-n@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/arity-n/-/arity-n-1.0.4.tgz#d9e76b11733e08569c0847ae7b39b2860b30b745"
@@ -2482,9 +2486,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30000989, caniuse-lite@^1.0.30001004, caniuse-lite@^1.0.30001006:
-  version "1.0.30001009"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001009.tgz#69b77997b882a7aee6af24c8d7d2fa27ee41f348"
-  integrity sha512-M3rEqHN6SaVjgo4bIik7HsGcWXsi+lI9WA0p51RPMFx5gXfduyOXWJrc0R4xBkSK1pgNf4CNgy5M+6H+WiEP8g==
+  version "1.0.30001010"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001010.tgz#397a14034d384260453cc81994f494626d34b938"
+  integrity sha512-RA5GH9YjFNea4ZQszdWgh2SC+dpLiRAg4VDQS2b5JRI45OxmbGrYocYHTa9x0bKMQUE7uvHkNPNffUr+pCxSGw==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -4743,9 +4747,9 @@ handle-thing@^2.0.0:
   integrity sha512-d4sze1JNC454Wdo2fkuyzCr6aHcbL6PGGuFAz0Li/NcOm1tCHGnWDRmJP85dh9IhQErTc2svWFEX5xHIOo//kQ==
 
 handlebars@^4.1.2:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.5.1.tgz#8a01c382c180272260d07f2d1aa3ae745715c7ba"
-  integrity sha512-C29UoFzHe9yM61lOsIlCE5/mQVGrnIOrOq7maQl76L7tYPCgC1og0Ajt6uWnX4ZTxBPnjw+CUvawphwCfJgUnA==
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.5.2.tgz#5a4eb92ab5962ca3415ac188c86dc7f784f76a0f"
+  integrity sha512-29Zxv/cynYB7mkT1rVWQnV7mGX6v7H/miQ6dbEpYTKq5eJBN7PsRB+ViYJlcT6JINTSu4dVB9kOqEun78h6Exg==
   dependencies:
     neo-async "^2.6.0"
     optimist "^0.6.1"

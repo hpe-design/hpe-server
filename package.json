@@ -18,6 +18,7 @@
     "lint-fix": "eslint src --fix"
   },
   "dependencies": {
+    "aries-core": "https://github.com/hpe-design/aries.git#stable",
     "grommet": "^2.8.0",
     "grommet-icons": "^4.4.0",
     "grommet-theme-hpe": "^0.4.2",
